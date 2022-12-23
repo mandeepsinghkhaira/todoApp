@@ -4,7 +4,7 @@ const ul = document.querySelector(".list-group");
 
 //ul style changes
 ul.style.margin = "auto";
-ul.style.width = "50%";
+ul.style.width = "70%";
 
 //event listeners
 function loadEventListeners() {
