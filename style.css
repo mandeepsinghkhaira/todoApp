@@ -1,0 +1,26 @@
+.m{
+    /*border: 3px solid green;*/
+    text-align: center;
+}
+
+img{
+    width: 100px;
+}
+
+#userInput {
+    display: inline;
+    width: 50%;
+}
+
+#btns{
+    display: block;
+    text-align: center;
+}
+
+#addBtn{
+    width: 100px;
+}
+
+#removeBtn{
+    width: 100px;
+}
